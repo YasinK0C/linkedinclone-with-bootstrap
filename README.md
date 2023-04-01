@@ -11,3 +11,5 @@ https://app.patika.dev/ysnkoc
 Click to visit profile GitHub
 
 https://github.com/YasinK0C
+
+'![linkedinClone](./assets/linkkedn.jpg)
