@@ -43,8 +43,8 @@
   button.mediatext {
     color: #5f5f5f;
     background-color: #f0eff3;
-    border:none;  /* butonlardaki kenarlığı kaldırmak için */
-    margin-right: 45px; /*bir gönderi başlat kısmındaki butonlar arası mesafeyi belirledik*/   
+    border:none; 
+    margin-right: 45px;   
   }
   
   button.mediatext:hover {
